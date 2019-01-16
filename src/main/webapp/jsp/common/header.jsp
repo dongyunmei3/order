@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                   new build家常菜
+                   家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
